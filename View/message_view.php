@@ -8,7 +8,8 @@
     <title>Document</title>
 </head>
 <body>
-<h1>
+<h1 style="font-weight: bold; background-color: cyan">
+
     Mensajes de todos nuestros amigos
 </h1>
 
