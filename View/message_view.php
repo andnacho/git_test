@@ -10,7 +10,7 @@
 <body>
 
 <h1 style="text-decoration: underline; background-color: green">
-    Mensajes de todos nuestros amigos
+    Mensajes de todos nuestros clientes
 </h1>
 
 <table>
