@@ -26,6 +26,7 @@
         echo "<tr>";
     }
     ?>
+    SE agrega algo diferente para pruebas
 </table>
 </body>
 </html>
