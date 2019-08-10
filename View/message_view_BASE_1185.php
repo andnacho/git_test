@@ -10,7 +10,7 @@
 <body>
 
 <h1 style="text-decoration: underline; background-color: green">
-    Mensajes de todos nuestros csesdf
+    Mensajes de todos nuestros amigos
 </h1>
 
 <table>
@@ -26,7 +26,6 @@
         echo "<tr>";
     }
     ?>
-   cambio aqui
 </table>
 </body>
 </html>
