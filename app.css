@@ -1,0 +1,19 @@
+li {
+    background-color: yellow;
+    width: 200px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 2px;
+}
+
+/* Clase .*/
+.section {
+    background-color: blue;
+    padding: 20px;
+}
+
+/* Id #*/
+#titulo {
+    background-color: black;
+    color: red;
+}
